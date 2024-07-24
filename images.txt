@@ -5,5 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 #以下自己添加，顺便测试
-qdtoday/ad
+qdtoday/qd
 jazzdd/wol
